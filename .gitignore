@@ -31,6 +31,3 @@ build/
 .vscode/
 
 .mvn
-
-### AWS keys ###
-*.properties
